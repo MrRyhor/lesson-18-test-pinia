@@ -48,6 +48,7 @@ export default {
         },
         onAddClick() {
             this.getFriendsPath ? this.addFriend(this.inputValue) : this.addGift(this.inputValue)
+            this.inputValue = null
         },
     },
 }
