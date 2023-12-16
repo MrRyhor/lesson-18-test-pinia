@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktask_pinia"]=self["webpackChunktask_pinia"]||[]).push([[760],{3760:function(n,a,e){e.r(a),e.d(a,{default:function(){return p}});var t=e(3396);function r(n,a,e,r,s,i){const u=(0,t.up)("main-master-page");return(0,t.wg)(),(0,t.j4)(u)}var s=e(8642),i={name:"GiftsView",components:{MainMasterPage:s.Z}},u=e(89);const c=(0,u.Z)(i,[["render",r]]);var p=c}}]);
+//# sourceMappingURL=760.ad970e8d.js.map
